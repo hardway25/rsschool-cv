@@ -1,3 +1,3 @@
 # rsschool-cv
 https://hardway25.github.io/rsschool-cv/cv
-https://hardway25.github.io/rsschool-cv/index.html
+https://hardway25.github.io/rsschool-cv/
